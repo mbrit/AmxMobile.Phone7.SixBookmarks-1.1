@@ -1,0 +1,17 @@
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\ResolveAssemblyReference.cache
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\App.g.cs
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\LogonPage.g.cs
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\NavigatorPage.g.cs
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\AmxMobile.Phone7.SixBookmarks.g.resources
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\Bin\Debug\ApplicationIcon.png
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\Bin\Debug\Background.png
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\Bin\Debug\AmxMobile.Phone7.SixBookmarks.dll
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\Bin\Debug\AmxMobile.Phone7.SixBookmarks.pdb
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\Bin\Debug\AppManifest.xaml
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\Bin\Debug\AmxMobile.Phone7.SixBookmarks.xap
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\Bin\Debug\System.Data.Services.Client.dll
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\AmxMobile.Phone7.SixBookmarks.dll
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\AmxMobile.Phone7.SixBookmarks.pdb
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\XapCacheFile.xml
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\ConfigurePage.g.cs
+w:\code\book\AmxMobile.Phone7.SixBookmarks\1.1\AmxMobile.Phone7.SixBookmarks\AmxMobile.Phone7.SixBookmarks\obj\Debug\ConfigureSingletonPage.g.cs
